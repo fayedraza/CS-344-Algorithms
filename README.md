@@ -2,7 +2,7 @@
 
 CS 344 Data Structures at Rutgers University 
 
-Professor Yongfeng Zhang 
+Professor Zhang 
 
 Fall 2021
 
