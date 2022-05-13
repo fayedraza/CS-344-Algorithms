@@ -1,6 +1,6 @@
 # CS-344-Algorithms
 
-CS 344 Data Structures at Rutgers University 
+CS 344 Algorithms at Rutgers University 
 
 Professor Zhang 
 
